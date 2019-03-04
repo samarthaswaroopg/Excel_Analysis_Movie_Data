@@ -1,7 +1,7 @@
-# Excel_Analysis_Movie_Data
+                                         # Excel_Analysis_Movie_Data
        
 
-      EXPLANATION FOR THE ANALYSIS OF THE MOVIE DATA SET:
+                                    EXPLANATION FOR THE ANALYSIS OF THE MOVIE DATA SET:
 The movie data set used in this analysis is an excel file consisting of 500 rows and 15 columns initially.
 
 The following operations have been performed on the excel data set to arrive at the necessary conclusions and also to perform the necessary analysis:
@@ -19,10 +19,12 @@ The following operations have been performed on the excel data set to arrive at 
 6)Finally the third sheet tells about the pivot tables through Pivot Table Analysis.
 Here basically 5 pivot tables have been plotted and their descriptions are mention besides them.
 The pivot table is used instead of the filter as the pivot table itself has the option for filtering the data.
+
 The pivot analysis is done for the following cases:
-•	Filter by the user votes to retrieve the movie title, the country of origin of the movie, the actor and the director of the movie-So here the details for the highest and the least number of user votes is retrieved and the results are mentioned besides the pivot table analysis.(2 pivot tables totally)
-•	The next pivot table speaks about the movie title with respect to its duration and IMDB rating like for example in the example the movies starting with letter A have been analyzed as mentioned above.
-•	The movies with their respective genre and also the count of the genre are also shown in a pivot table.
-•	Finally a pivot table showing the movie titles with respect to the budget and its count and also the Facebook likes and its count is also been shown (columns K to Y in the top).here with first letter B have been filtered by specifying the label and value condition of less than and greater than for the value and the analysis has been performed.
+
+•Filter by the user votes to retrieve the movie title, the country of origin of the movie, the actor and the director of the movie-So here the details for the highest and the least number of user votes is retrieved and the results are mentioned besides the pivot table analysis.(2 pivot tables totally)
+•The next pivot table speaks about the movie title with respect to its duration and IMDB rating like for example in the example the movies starting with letter A have been analyzed as mentioned above.
+•The movies with their respective genre and also the count of the genre are also shown in a pivot table.
+•Finally a pivot table showing the movie titles with respect to the budget and its count and also the Facebook likes and its count is also been shown (columns K to Y in the top).here with first letter B have been filtered by specifying the label and value condition of less than and greater than for the value and the analysis has been performed.
 
 
